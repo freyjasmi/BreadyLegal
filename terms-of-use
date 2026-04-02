@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Bready – Terms of Use</title>
+  <style>
+    body {
+      font-family: Georgia, serif;
+      max-width: 740px;
+      margin: 48px auto;
+      padding: 0 24px 80px;
+      color: #2e1f0e;
+      background: #fdf6ec;
+      line-height: 1.75;
+    }
+    h1 {
+      font-size: 2rem;
+      color: #c4944a;
+      margin-bottom: 4px;
+    }
+    .subtitle {
+      color: #8b5e3c;
+      font-size: 0.95rem;
+      margin-bottom: 40px;
+    }
+    h2 {
+      font-size: 1rem;
+      color: #c4944a;
+      margin-top: 36px;
+      margin-bottom: 8px;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+    p {
+      margin: 0 0 14px;
+    }
+    ul {
+      margin: 0 0 14px;
+      padding-left: 20px;
+    }
+    li {
+      margin-bottom: 6px;
+    }
+    a {
+      color: #c4944a;
+    }
+    hr {
+      border: none;
+      border-top: 1px solid #e8c99a;
+      margin: 40px 0;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Terms of Use</h1>
+  <p class="subtitle">Bready – Bread Machine Recipe Book</p>
+
+  <p>Last updated: April 2026</p>
+  <p>Please read these Terms of Use ("Terms") carefully before using this application, Bready ("the Application"). By downloading or using the Application, you agree to be bound by these terms. If you do not agree, please do not use the Application.</p>
+
+  <hr />
+
+  <h2>1. Licence</h2>
+  <p>We grant you a personal, non-exclusive, non-transferable, revocable licence to use the Application on your personal device solely for your own personal, non-commercial use. You may not reproduce, distribute, modify, or create derivative works of the Application or its content without our prior written consent.</p>
+
+  <h2>2. In-App Purchases</h2>
+  <p>The Application offers a one-time optional purchase ("Premium Upgrade"). This is a single payment with no recurring subscription. The Premium Upgrade unlocks the full recipe library, the ability to add personal notes to recipes, and the ability to rate recipes.</p>
+  <p>All purchases are processed by Google Play and are subject to Google's billing policies. The standard Google Play refund window applies (typically 48 hours from purchase). We are unable to issue refunds outside of Google's standard policies.</p>
+  <p>Once the Premium Upgrade has been successfully unlocked, it is tied to your Google Play account and can be restored on any device using the same account via the "Restore previous purchase" option in the Application.</p>
+
+  <h2>3. Content</h2>
+  <p>All recipes, text, and content within the Application are provided for personal, home use only. Recipes are intended as a guide and results may vary depending on your specific bread machine model, ingredient brands, and environmental conditions. We recommend consulting your machine's manual alongside any recipe.</p>
+  <p>We make reasonable efforts to ensure the accuracy of recipes and instructions, but we cannot guarantee that all recipes will produce perfect results in all circumstances.</p>
+
+  <h2>4. Acceptable Use</h2>
+  <p>You agree not to:</p>
+  <ul>
+    <li>Use the Application for any unlawful purpose</li>
+    <li>Attempt to reverse-engineer, decompile, or extract the source code of the Application</li>
+    <li>Use the Application in any way that could damage, disable, or impair it</li>
+    <li>Reproduce or redistribute Application content (including recipes) commercially without permission</li>
+  </ul>
+
+  <h2>5. Disclaimer of Warranties</h2>
+  <p>The Application is provided "as is" and "as available", without warranties of any kind, either express or implied. Due to the fallible nature of mobile applications, we do not warrant that the Application will be error-free, uninterrupted, or free of viruses or other harmful components.</p>
+  <p>To the fullest extent permitted by applicable law, we disclaim all warranties, including implied warranties of merchantability, fitness for a particular purpose, and non-infringement.</p>
+
+  <h2>6. Limitation of Liability</h2>
+  <p>To the fullest extent permitted by law, we shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of the App, including but not limited to loss of data, loss of profits, or any outcomes resulting from following recipes in the App.</p>
+  <p>Nothing in these Terms limits our liability for death or personal injury caused by negligence, fraud, or any other liability that cannot be excluded under applicable law.</p>
+
+  <h2>7. Updates and Availability</h2>
+  <p>We may update, modify, or discontinue the Application or any part of it at any time without notice. We do not guarantee that the Application will remain available indefinitely. Purchased content will remain accessible for as long as the Application is available on the marketplace you have downloaded it from.</p>
+
+  <h2>8. Governing Law</h2>
+  <p>These Terms are governed by and construed in accordance with the laws of the European Union and the Republic of Croatia. If any provision of these Terms is found to be unenforceable, the remaining provisions will continue in full force and effect.</p>
+
+  <h2>9. Changes to These Terms</h2>
+  <p>We may update these Terms of Use from time to time. Changes will be indicated by the "Last updated" date at the top of this page. Continued use of the Application after changes are made constitutes your acceptance of the revised terms.</p>
+
+  <h2>10. Contact</h2>
+  <p>If you have any questions about these Terms of Use, please contact us at:</p>
+  <p><a href="mailto:devfreyish@gmail.com">devfreyish@gmail.com</a></p>
+
+</body>
+</html>
